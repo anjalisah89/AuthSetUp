@@ -1,7 +1,7 @@
 {
   "name": "authsetup",
-  "version": "0.1.0",
   "author": "Anjali",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
